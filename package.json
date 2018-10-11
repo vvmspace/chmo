@@ -1,0 +1,28 @@
+{
+  "name": "chmojs",
+  "version": "1.0.0",
+  "description": "Chai.js + Mocha.js = Chmo.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvmspace/chmo.git"
+  },
+  "keywords": [
+    "chai",
+    "mocha",
+    "tests"
+  ],
+  "author": "vvm (vvmspace@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vvmspace/chmo/issues"
+  },
+  "homepage": "https://github.com/vvmspace/chmo#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
